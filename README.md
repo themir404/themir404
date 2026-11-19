@@ -1,31 +1,34 @@
+Updated **`README.md`** with a cleaner, modern profile layout. Here’s the new code:
+
+```markdown
 <div align="center">
 
-# Themir
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1020,100:172554&height=220&section=header&text=Themir&fontSize=76&fontColor=ffffff&fontAlignY=42&desc=BUILDING%20%7C%20LEARNING%20%7C%20SHARING&descAlignY=68&descSize=14" width="100%" alt="Themir — Building, Learning, Sharing" />
 
-**Welcome to my corner of GitHub.**
+### Making things. Learning as I go.
 
-Based in France · Here to make things, learn, and share along the way.
+**France** · **[@themir404](https://github.com/themir404)**
 
-[![GitHub](https://img.shields.io/badge/GitHub-@themir404-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/themir404)
-[![Instagram](https://img.shields.io/badge/Instagram-@themir404-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/themir404)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/themir404)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/themir404)
 
 </div>
 
 ---
 
-### About me
+### About
 
-I’m **Themir**. This profile is where I’ll share what I’m working on and what I learn along the way. I’m just getting started here—more to come.
+I’m Themir. This is where I’ll share projects, experiments, and things I learn along the way. I’m just getting started here—more soon.
 
-### Find me
+### Projects
 
-- [GitHub](https://github.com/themir404)
-- [Instagram](https://instagram.com/themir404)
+*The first project is on its way. Check back soon.*
 
 ---
 
 <div align="center">
 
-*Thanks for stopping by.*
+<sub>Thanks for stopping by.</sub>
 
 </div>
+```
