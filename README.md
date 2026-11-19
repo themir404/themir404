@@ -1,6 +1,3 @@
-Updated **`README.md`** with a cleaner, modern profile layout. Here’s the new code:
-
-```markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1020,100:172554&height=220&section=header&text=Themir&fontSize=76&fontColor=ffffff&fontAlignY=42&desc=BUILDING%20%7C%20LEARNING%20%7C%20SHARING&descAlignY=68&descSize=14" width="100%" alt="Themir — Building, Learning, Sharing" />
@@ -31,4 +28,3 @@ I’m Themir. This is where I’ll share projects, experiments, and things I lea
 <sub>Thanks for stopping by.</sub>
 
 </div>
-```
