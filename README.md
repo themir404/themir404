@@ -1,30 +1,44 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1020,100:172554&height=220&section=header&text=Themir&fontSize=76&fontColor=ffffff&fontAlignY=42&desc=BUILDING%20%7C%20LEARNING%20%7C%20SHARING&descAlignY=68&descSize=14" width="100%" alt="Themir — Building, Learning, Sharing" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10172A,50:172554,100:1D4ED8&height=210&section=header&text=THEMIR&fontSize=68&fontColor=F8FAFC&fontAlignY=43&desc=BUILDING%20%20%2F%20%20LEARNING%20%20%2F%20%20SHARING&descSize=13&descAlignY=69&descColor=C7D2FE" width="100%" alt="Themir — Building, Learning, Sharing" />
 
-### Making things. Learning as I go.
+### A place for the things I build and the things I learn.
 
-**France** · **[@themir404](https://github.com/themir404)**
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/themir404)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/themir404)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/themir404)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/themir404)
+![Based in France](https://img.shields.io/badge/Based%20in-France-334155?style=flat-square&logo=googlemaps&logoColor=white)
 
 </div>
 
 ---
 
-### About
+## About me
 
-I’m Themir. This is where I’ll share projects, experiments, and things I learn along the way. I’m just getting started here—more soon.
+Hey, I’m **Themir**. This profile is my space to share projects, experiments, and what I learn along the way. I’m just getting started—more soon.
 
-### Projects
+| 📍 Based in | ✨ Here for |
+|:--|:--|
+| France | Building, learning, and sharing |
 
-*The first project is on its way. Check back soon.*
+## Projects
+
+I’m getting my first public projects ready. Until then, [explore my repositories](https://github.com/themir404?tab=repositories) or say hi on [Instagram](https://instagram.com/themir404).
+
+## GitHub at a glance
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=themir404&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&custom_title=GitHub%20Stats" alt="Themir's GitHub statistics" />
+
+</div>
 
 ---
 
 <div align="center">
 
-<sub>Thanks for stopping by.</sub>
+[![Follow on GitHub](https://img.shields.io/badge/Follow%20along-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/themir404)
+[![Say hello on Instagram](https://img.shields.io/badge/Say%20hello-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/themir404)
+
+<sub>Thanks for stopping by ✦</sub>
 
 </div>
